@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="blade" type="PHP" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
